@@ -1,2 +1,3 @@
 test-svc:
   applicationName: test-svc
+  replicaCount: 5
