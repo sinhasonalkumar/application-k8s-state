@@ -1,0 +1,3 @@
+micro-svc-helm-chart:
+  applicationName: qa-test-micro-svc
+  replicaCount: 2
