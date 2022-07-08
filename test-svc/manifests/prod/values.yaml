@@ -1,0 +1,3 @@
+micro-svc-helm-chart:
+  applicationName: prod-test-micro-svc
+  replicaCount: 6
