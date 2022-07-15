@@ -2,4 +2,4 @@ micro-svc-helm-chart:
   applicationName: dev-test-svc
   replicaCount: 3
   container:
-    image: 1.22.0
+    image: nginx:1.23.0
