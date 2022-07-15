@@ -3,5 +3,3 @@ micro-svc-helm-chart:
   replicaCount: 3
   container:
     image: 1.21.0
-container:
-  image: nginx:1.22.0
