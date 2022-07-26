@@ -1,8 +1,0 @@
-apiVersion: v2
-name: prod-test-svc
-type: application
-version: 1.0.0
-dependencies:
-  - name: micro-svc-helm-chart
-    version: "0.1.0"
-    repository: "https://sinhasonalkumar.github.io/helm-repository"
