@@ -1,5 +1,0 @@
-micro-svc-helm-chart:
-  applicationName: prod-test-svc
-  replicaCount: 6
-  container:
-    image: nginx:1.22.0
