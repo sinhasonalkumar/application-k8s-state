@@ -1,0 +1,5 @@
+micro-svc-helm-chart:
+  applicationName: stage-test-svc
+  replicaCount: 3
+  container:
+    image: nginx:1.22.0
