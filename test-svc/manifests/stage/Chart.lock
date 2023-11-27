@@ -1,6 +1,6 @@
 dependencies:
 - name: micro-svc-helm-chart
   repository: https://sinhasonalkumar.github.io/helm-repository
-  version: 0.1.0
-digest: sha256:91daa43931bbbf8a1341506eeac31c4257225c8b6ff7d0321760246d20675278
-generated: "2022-07-07T16:39:28.428604-06:00"
+  version: 0.7.0
+digest: sha256:810d875c394b337c8b627bed19824af06be816f571fb19bf27c7f1e117c3285e
+generated: "2023-11-27T11:13:53.131236-07:00"
